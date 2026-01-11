@@ -6,7 +6,8 @@
 
 ## Features
 - **Code Editor**: Supports C, C++, and Java with syntax templates.
-- **Judge System**: Compiles and executes code against test cases.
+- **Custom Input**: Test your code with arbitrary input data directly within the problem viewer.
+- **Judge System**: Compiles and executes code against test cases with concise status feedback.
 - **Verdicts**: 
   - ACCEPTED (AC)
   - WRONG ANSWER (WA)
