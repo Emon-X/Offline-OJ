@@ -1,0 +1,15 @@
+Problem A: Simple Addition
+
+Given two integers A and B, print their sum.
+
+Input:
+Two space-separated integers A and B.
+
+Output:
+A single integer representing the sum.
+
+Example:
+Input:
+5 10
+Output:
+15

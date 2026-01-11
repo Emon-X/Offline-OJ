@@ -1,0 +1,18 @@
+Problem B: Linear Search
+
+Given an array of N integers and a target value X, find the first occurrence of X in the array.
+Print the 0-based index of X. If X is not found, print -1.
+
+Input:
+The first line contains two integers N and X (1 <= N <= 1000, -10^9 <= X <= 10^9).
+The second line contains N space-separated integers representing the array elements.
+
+Output:
+Print a single integer: the index of X or -1.
+
+Example:
+Input:
+5 10
+2 5 8 10 15
+Output:
+3
