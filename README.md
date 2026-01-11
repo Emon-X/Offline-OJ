@@ -40,3 +40,5 @@ To package the application for other users:
 5. **Requirements**: The user's machine must have:
    - Java Runtime (JRE/JDK)
    - GCC and G++ (for compiling C/C++ submissions) added to system PATH.
+  
+Still working---
